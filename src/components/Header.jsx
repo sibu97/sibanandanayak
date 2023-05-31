@@ -1,21 +1,14 @@
 import React from 'react'
+import Logo from '../assets/PASSPHOTO1.ico'
 
 function Header() {
   return (
-      <>
-          <ul ClassName='nav' style={{
-              display: "flex", Height: '30px',
-              padding: '10px',
-              backgroundColor:'red',
-              
-          }}>
-              <li>Skills</li>
-              < li>Projects</li>
-             < li>Contact Me</li>
-              
+      <div>
+          <ul>
+              <li><img  alt='logo'><Logo/></img></li>
+              <li><h1 color='white'>Sibananda Nayak</h1></li>
           </ul>
-          
-      </>
+      </div>
   )
 }
 
