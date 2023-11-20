@@ -2,5 +2,13 @@ body{
     margin-right: '0%';
    margin-left: '0%';
    /* background-color: '#4a5568'; */
-   background: linear-gradient(286.45deg,#0b101d 4.03%,#12192b 97.01%);
+   /* background: linear-gradient(286.45deg,#0b101d 4.03%,#12192b 97.01%); */
+ background:linear-gradient(145deg, #1e2024, #23272b);
+
+
+}
+.logo{
+    width: '10px';
+    height:'10px';
+    border-radius:'10px';
 }
