@@ -10,9 +10,9 @@ import './app.css';
 import './css/style.css'
 function App() {
   return (
-    <div data-spy="scroll"  data-offset="150">
+    <div class='app' data-spy="scroll"  data-offset="150" >
 
-    <Header />
+       <Header/>
       
     </div>
   );

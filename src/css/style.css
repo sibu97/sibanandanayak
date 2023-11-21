@@ -131,6 +131,7 @@ body {
   font-family: var(--font-primary);
   color: var(--color-body);
   font-weight: var(--p-regular);
+  background:linear-gradient(145deg, #1e2024, #23272b);
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   body {
