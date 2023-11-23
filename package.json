@@ -4,14 +4,19 @@
   "private": true,
   "dependencies": {
     "@nextui-org/react": "^1.0.0-beta.13",
+    "animate.css": "^4.1.1",
     "aos": "^2.3.4",
     "bootstrap": "^5.3.2",
+    "feather-icons": "^4.29.1",
     "install": "^0.13.0",
     "jquery": "^3.7.1",
     "popper.js": "^1.16.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-particles": "^2.12.2",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.29.0",
+    "typeit-react": "^2.6.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
   }
 }
