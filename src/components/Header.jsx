@@ -1,6 +1,6 @@
 import React from 'react'
 import Logo from '../assets/logo.ico'
-import Profilephoto from '../images/slider/prof-photo.jpg'
+import Profilephoto from '../images/slider/photo2.jpg'
 
 import '../css/style.css';
 import '../app.css';
@@ -130,7 +130,7 @@ function Header() {
                                                             <i data-feather="user"></i>
                                                         </div>
                                                         <h2 className="title">
-                                                            Hi, I’m <span>InBio</span>
+                                                            Hi, I’m <span>SIBANANDA &nbsp;NAYAK</span>
                                                         </h2>
                                                         <p className="disc">Web designer and developer working for envato.com in Paris,
                                                             France.</p>
